@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipe-michael1
-- 👀 I’m interested in ... Radical Sports incluing Surf and Soccer
-- 🌱 I’m currently learning ... technologies incluing Python, PHP and Ruby on Rails
+- 👀 I’m interested in ... Radical Sports including Basketball and Soccer
+- 🌱 I’m currently learning ... technologies including Python, PHP, and Javascript
 - 💞️ I’m looking to collaborate on ... Animal causes
 - 😄 Pronouns: ... Sir, He
-- ⚡ Fun fact: ... I'm like go to the gym, watch movies and go out with my friends
+- ⚡ Fun fact: ... I like to go to the gym, watch movies, and go out with my friends
