@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felipe-michael1
-- 👀 I’m interested in ... Radical Sports including Basketball and Soccer
+- 👀 I’m interested in ... Sports including Basketball and Soccer
 - 🌱 I’m currently learning ... technologies including Python, PHP, and Javascript
 - 💞️ I’m looking to collaborate on ... Animal causes
 - 😄 Pronouns: ... Sir, He
